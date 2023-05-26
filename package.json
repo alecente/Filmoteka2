@@ -3,12 +3,11 @@
   "version": "2.0.0",
   "description": "",
   "homepage": "https://alecente.github.io/Filmoteka2",
-  "scripts": {
-    "start": "parcel src/*.html",
+    "scripts": {
     "build": "parcel build src/*.html --public-url /Filmoteka2/"
-
-    
+   
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
