@@ -3,8 +3,8 @@
   "version": "2.0.0",
   "description": "",
   "homepage": "https://alecente.github.io/Filmoteka2",
+  "start": "parcel src/*.html",
     "scripts": {
-    "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Filmoteka2/"
    
   },
