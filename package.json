@@ -5,7 +5,7 @@
   "homepage": "https://alecente.github.io/Filmoteka2",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka2/"
+    "build": "parcel build src/*.html https://github.com/alecente/Filmoteka2.git"
   },
 
   "repository": {
